@@ -1,6 +1,6 @@
-#CHECKPOINT 2
+# CHECKPOINT 2
 
-#PARTICIPANTES:
+**PARTICIPANTES:**
 
 ````
 1. Gabriel Lacerda Covello                      RM: 556391
